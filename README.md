@@ -3,7 +3,7 @@
 ## Websites
 
 | Publication | Name | Link |
-|--|---|---|---|
+|--|---|---|
 | 2023 | Dora Core | [dora.dev](https://dora.dev/core/) |
 
 ## Papers
