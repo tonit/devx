@@ -1,6 +1,12 @@
 # Materials on Developer Experience
 
-## Documents
+## Websites
+
+| Publication | Name | Link |
+|--|---|---|---|
+| 2023 | Dora Core | [dora.dev](https://dora.dev/core/) |
+
+## Papers
 
 | Publication | Name | Link | Offline Version |
 |--|---|---|---|
